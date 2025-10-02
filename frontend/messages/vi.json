@@ -1,0 +1,129 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Có lỗi xảy ra",
+    "success": "Thành công",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "add": "Thêm",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "confirm": "Xác nhận",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "clear": "Xóa",
+    "copy": "Sao chép",
+    "share": "Chia sẻ",
+    "export": "Xuất",
+    "import": "Nhập"
+  },
+  "nav": {
+    "dashboard": "Trang chủ",
+    "trips": "Chuyến đi",
+    "expenses": "Chi phí",
+    "reports": "Báo cáo",
+    "settings": "Cài đặt"
+  },
+  "trip": {
+    "title": "Chuyến đi",
+    "create": "Tạo chuyến đi mới",
+    "edit": "Sửa chuyến đi",
+    "name": "Tên chuyến đi",
+    "destination": "Điểm đến",
+    "departure": "Điểm khởi hành",
+    "startDate": "Ngày bắt đầu",
+    "endDate": "Ngày kết thúc",
+    "currency": "Tiền tệ",
+    "childFactor": "Hệ số trẻ em",
+    "roundingRule": "Quy tắc làm tròn",
+    "inviteCode": "Mã mời",
+    "members": "Thành viên",
+    "activities": "Hoạt động",
+    "expenses": "Chi phí",
+    "settlement": "Chia tiền",
+    "noTrips": "Chưa có chuyến đi nào",
+    "noTripsDesc": "Tạo chuyến đi đầu tiên của bạn để bắt đầu quản lý du lịch",
+    "joinTrip": "Tham gia chuyến đi",
+    "enterInviteCode": "Nhập mã mời"
+  },
+  "member": {
+    "title": "Thành viên",
+    "add": "Thêm thành viên",
+    "name": "Tên thành viên",
+    "factor": "Hệ số chia tiền",
+    "isChild": "Là trẻ em",
+    "totalPaid": "Đã trả",
+    "totalOwed": "Phải trả",
+    "balance": "Số dư"
+  },
+  "activity": {
+    "title": "Hoạt động",
+    "add": "Thêm hoạt động",
+    "name": "Tên hoạt động",
+    "description": "Mô tả",
+    "location": "Địa điểm",
+    "startTime": "Thời gian bắt đầu",
+    "endTime": "Thời gian kết thúc",
+    "noActivities": "Chưa có hoạt động nào",
+    "noActivitiesDesc": "Thêm hoạt động đầu tiên cho chuyến đi của bạn"
+  },
+  "expense": {
+    "title": "Chi phí",
+    "add": "Thêm chi phí",
+    "description": "Mô tả chi phí",
+    "amount": "Số tiền",
+    "currency": "Tiền tệ",
+    "exchangeRate": "Tỷ giá",
+    "category": "Danh mục",
+    "paidBy": "Người trả",
+    "isShared": "Chi phí chung",
+    "expenseDate": "Ngày chi",
+    "categories": {
+      "food": "Ăn uống",
+      "transport": "Di chuyển",
+      "accommodation": "Lưu trú",
+      "entertainment": "Giải trí",
+      "shopping": "Mua sắm",
+      "other": "Khác"
+    },
+    "noExpenses": "Chưa có chi phí nào",
+    "noExpensesDesc": "Thêm chi phí đầu tiên cho chuyến đi của bạn"
+  },
+  "settlement": {
+    "title": "Chia tiền",
+    "totalExpenses": "Tổng chi phí",
+    "sharedExpenses": "Chi phí chung",
+    "memberBalances": "Số dư thành viên",
+    "transactions": "Giao dịch cần thực hiện",
+    "shouldPay": "cần trả",
+    "shouldReceive": "sẽ nhận",
+    "noTransactions": "Không có giao dịch nào cần thực hiện"
+  },
+  "report": {
+    "title": "Báo cáo",
+    "expensesByCategory": "Chi phí theo danh mục",
+    "expensesByDay": "Chi phí theo ngày",
+    "expensesByMember": "Chi phí theo thành viên",
+    "statistics": "Thống kê"
+  },
+  "map": {
+    "selectLocation": "Chọn vị trí",
+    "searchLocation": "Tìm kiếm địa điểm",
+    "currentLocation": "Vị trí hiện tại"
+  },
+  "offline": {
+    "title": "Chế độ ngoại tuyến",
+    "message": "Bạn đang ở chế độ ngoại tuyến. Dữ liệu sẽ được đồng bộ khi có kết nối mạng.",
+    "syncPending": "Đang chờ đồng bộ",
+    "syncSuccess": "Đồng bộ thành công",
+    "syncError": "Lỗi đồng bộ"
+  },
+  "pwa": {
+    "installPrompt": "Cài đặt TripEasy",
+    "installDesc": "Cài đặt ứng dụng để truy cập nhanh hơn và sử dụng offline",
+    "install": "Cài đặt",
+    "dismiss": "Bỏ qua"
+  }
+}

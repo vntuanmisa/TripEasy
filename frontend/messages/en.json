@@ -1,0 +1,129 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "copy": "Copy",
+    "share": "Share",
+    "export": "Export",
+    "import": "Import"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "trips": "Trips",
+    "expenses": "Expenses",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "trip": {
+    "title": "Trip",
+    "create": "Create New Trip",
+    "edit": "Edit Trip",
+    "name": "Trip Name",
+    "destination": "Destination",
+    "departure": "Departure Location",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "currency": "Currency",
+    "childFactor": "Child Factor",
+    "roundingRule": "Rounding Rule",
+    "inviteCode": "Invite Code",
+    "members": "Members",
+    "activities": "Activities",
+    "expenses": "Expenses",
+    "settlement": "Settlement",
+    "noTrips": "No trips yet",
+    "noTripsDesc": "Create your first trip to start managing your travels",
+    "joinTrip": "Join Trip",
+    "enterInviteCode": "Enter invite code"
+  },
+  "member": {
+    "title": "Member",
+    "add": "Add Member",
+    "name": "Member Name",
+    "factor": "Split Factor",
+    "isChild": "Is Child",
+    "totalPaid": "Total Paid",
+    "totalOwed": "Total Owed",
+    "balance": "Balance"
+  },
+  "activity": {
+    "title": "Activity",
+    "add": "Add Activity",
+    "name": "Activity Name",
+    "description": "Description",
+    "location": "Location",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "noActivities": "No activities yet",
+    "noActivitiesDesc": "Add your first activity for this trip"
+  },
+  "expense": {
+    "title": "Expense",
+    "add": "Add Expense",
+    "description": "Expense Description",
+    "amount": "Amount",
+    "currency": "Currency",
+    "exchangeRate": "Exchange Rate",
+    "category": "Category",
+    "paidBy": "Paid By",
+    "isShared": "Shared Expense",
+    "expenseDate": "Expense Date",
+    "categories": {
+      "food": "Food & Dining",
+      "transport": "Transportation",
+      "accommodation": "Accommodation",
+      "entertainment": "Entertainment",
+      "shopping": "Shopping",
+      "other": "Other"
+    },
+    "noExpenses": "No expenses yet",
+    "noExpensesDesc": "Add your first expense for this trip"
+  },
+  "settlement": {
+    "title": "Settlement",
+    "totalExpenses": "Total Expenses",
+    "sharedExpenses": "Shared Expenses",
+    "memberBalances": "Member Balances",
+    "transactions": "Required Transactions",
+    "shouldPay": "should pay",
+    "shouldReceive": "will receive",
+    "noTransactions": "No transactions required"
+  },
+  "report": {
+    "title": "Reports",
+    "expensesByCategory": "Expenses by Category",
+    "expensesByDay": "Expenses by Day",
+    "expensesByMember": "Expenses by Member",
+    "statistics": "Statistics"
+  },
+  "map": {
+    "selectLocation": "Select Location",
+    "searchLocation": "Search Location",
+    "currentLocation": "Current Location"
+  },
+  "offline": {
+    "title": "Offline Mode",
+    "message": "You are currently offline. Data will be synced when connection is restored.",
+    "syncPending": "Sync pending",
+    "syncSuccess": "Sync successful",
+    "syncError": "Sync error"
+  },
+  "pwa": {
+    "installPrompt": "Install TripEasy",
+    "installDesc": "Install the app for faster access and offline usage",
+    "install": "Install",
+    "dismiss": "Dismiss"
+  }
+}
